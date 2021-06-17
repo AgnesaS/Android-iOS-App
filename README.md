@@ -1,4 +1,4 @@
-# Restaurant App 
+# Restaurant App :hamburger:
 
 ## INTRODUCTION
 All ordered in a single application dedicated to customer service.
