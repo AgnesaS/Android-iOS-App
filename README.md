@@ -1,6 +1,6 @@
-Introduction
-#Restaurant App 
+Restaurant App 
 
+INTRODUCTION
 All ordered in a single application dedicated to customer service.
 The application will contain the following features:
 
@@ -25,3 +25,7 @@ The application will contain the following features:
 •        Kitchen management
 
 •        Social Media integration
+
+IDE
+
+The project is developed using Android Studio 3.5.
