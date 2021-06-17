@@ -1,4 +1,4 @@
-Restaurant App 
+#Restaurant App 
 
 All ordered in a single application dedicated to customer service.
 The application will contain the following features:
