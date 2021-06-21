@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item android:title="MENU">
+            <menu>
+
+                <item
+                    android:id="@+id/nav_appetizer"
+                    android:icon="@drawable/appetizer"
+                    android:title="Appetizer" />
+                <item
+                android:id="@+id/nav_salads"
+                android:icon="@drawable/salads"
+                android:title="Salads">
+                <item
+                    android:id="@+id/nav_fastfood"
+                    android:icon="@drawable/fastfood"
+                    android:title="Fast Food" />
+                <item
+                    android:id="@+id/nav_pizza"
+                    android:icon="@drawable/ic_pizza_24"
+                    android:title="Pizza" />
+                <item
+                    android:id="@+id/nav_fish"
+                    android:icon="@drawable/fish"
+                    android:title="Fish" />
+
+                <item
+                    android:id="@+id/nav_mainplait"
+                    android:icon="@drawable/main"
+                    android:title="Main plait" />
+
+                <item
+                    android:id="@+id/nav_deserts"
+                    android:icon="@drawable/cake"
+                    android:title="Deserts" />
+            </menu> </item>
+
+
+    </group>
+    <item android:title="About us">
+        <menu>
+
+            <item
+                android:id="@+id/location"
+                android:icon="@drawable/location"
+                android:title="Location" />
+
+            <item
+                android:id="@+id/stafmenagment"
+                android:icon="@drawable/ic_people_24"
+                android:title="Staf Menagement" />
+
+            <item
+                android:id="@+id/question"
+                android:icon="@drawable/question"
+                android:title="Question" />
+            <item
+                android:id="@+id/log_out"
+                android:icon="@drawable/rateus"
+                android:title="Rate us" />
+
+        </menu>
+    </item>
+
+    <item android:title="Profile">
+        <menu>
+
+            <item
+                android:id="@+id/order_details"
+                android:icon="@drawable/orderdetails"
+                android:title="Order Details" />
+
+            <item
+                android:id="@+id/submit_order"
+                android:icon="@drawable/submitorder"
+                android:title="Submit Order"
+                tools:ignore="DuplicateIds" />
+
+            <item
+                android:id="@+id/log_out"
+                android:icon="@drawable/logout"
+                android:title="Log Out"
+                tools:ignore="DuplicateIds" />
+
+        </menu>
+    </item>
+
+</menu>
