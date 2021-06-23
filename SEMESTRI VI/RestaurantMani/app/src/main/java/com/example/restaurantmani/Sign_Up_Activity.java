@@ -51,8 +51,6 @@ public class Sign_Up_Activity extends AppCompatActivity {
             }
         });
 
-        getSupportActionBar().setTitle("Sign Up");
-
 
         email = (EditText)findViewById(R.id.email);
         password = (EditText)findViewById(R.id.password);
