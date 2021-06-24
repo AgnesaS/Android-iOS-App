@@ -1,91 +1,92 @@
 <?xml version="1.0" encoding="utf-8"?>
-<menu
-    xmlns:android="http://schemas.android.com/apk/res/android">
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
 
-    <group android:checkableBehavior="single">
         <item android:title="MENU">
             <menu>
+              <group android:checkableBehavior="single">
 
-                <item
+                  <item
+                    android:title="Appetizer"
                     android:id="@+id/nav_appetizer"
-                    android:icon="@drawable/appetizer"
-                    android:title="Appetizer" />
-                <item
-                android:id="@+id/nav_salads"
-                android:icon="@drawable/salads"
-                android:title="Salads">
-                <item
-                    android:id="@+id/nav_fastfood"
-                    android:icon="@drawable/fastfood"
-                    android:title="Fast Food" />
-                <item
+                    android:icon="@drawable/appetizer"/>
+                  
+                  <item android:title="Soup" 
+                    android:icon="@drawable/soup" 
+                    android:id="@+id/nav_soup"/>
+                  
+                  <item
+                    android:title="Salads"    
+                    android:id="@+id/nav_salads"
+                    android:icon="@drawable/salads" />
+                  
+                  <item
                     android:id="@+id/nav_pizza"
                     android:icon="@drawable/ic_pizza_24"
                     android:title="Pizza" />
-                <item
-                    android:id="@+id/nav_fish"
+                      
+                 <item
+                    android:id="@+id/nav_fastfood"
+                    android:icon="@drawable/fastfood"
+                    android:title="Fast Food" />
+                 
+                 <item
+                    android:id="@+id/nav_entrees"
                     android:icon="@drawable/fish"
-                    android:title="Fish" />
+                    android:title="Entrees" />
 
                 <item
-                    android:id="@+id/nav_mainplait"
-                    android:icon="@drawable/main"
-                    android:title="Main plait" />
+                    android:id="@+id/nav_pasta"
+                    android:icon="@drawable/pasta"
+                    android:title="Pasta" />
 
                 <item
                     android:id="@+id/nav_deserts"
-                    android:icon="@drawable/cake"
+                    android:icon="@drawable/desserts"
                     android:title="Deserts" />
-            </menu> </item>
+             </group>
+          </menu>
+    </item>
 
-
-    </group>
     <item android:title="About us">
         <menu>
-
-            <item
+          <group android:checkableBehavior="single">
+             <item
                 android:id="@+id/location"
                 android:icon="@drawable/location"
                 android:title="Location" />
+             <item
+                android:id="@+id/nav_qaRate"
+                android:icon="@drawable/qanda"
+                android:title="QandA/Rate" />
 
             <item
-                android:id="@+id/stafmenagment"
-                android:icon="@drawable/ic_people_24"
+                android:id="@+id/nav_staff"
+                android:icon="@drawable/staff"
                 android:title="Staf Menagement" />
-
-            <item
-                android:id="@+id/question"
-                android:icon="@drawable/question"
-                android:title="Question" />
-            <item
-                android:id="@+id/log_out"
-                android:icon="@drawable/rateus"
-                android:title="Rate us" />
-
+            </group>
         </menu>
     </item>
 
     <item android:title="Profile">
         <menu>
+          <group android:checkableBehavior="single">
+             <item 
+                 android:title="Login" 
+                 android:icon="@drawable/login" 
+                 android:id="@+id/nav_login"/>
 
-            <item
-                android:id="@+id/order_details"
-                android:icon="@drawable/orderdetails"
-                android:title="Order Details" />
+             <item 
+                 android:title="Profile"
+                 android:icon="@drawable/profile" 
+                 android:id="@+id/nav_profile"/>
 
-            <item
-                android:id="@+id/submit_order"
-                android:icon="@drawable/submitorder"
-                android:title="Submit Order"
-                tools:ignore="DuplicateIds" />
+             <item
+                 android:title="Logout" 
+                 android:icon="@drawable/logout_icon" 
+                 android:id="@+id/nav_logout"/>
 
-            <item
-                android:id="@+id/log_out"
-                android:icon="@drawable/logout"
-                android:title="Log Out"
-                tools:ignore="DuplicateIds" />
-
-        </menu>
+          </group>
+       </menu>
     </item>
 
 </menu>
