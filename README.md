@@ -22,7 +22,8 @@ The project is developed using Android Studio 3.5.
 
 # SCREENSHOTS
  ## ⚡Profile
- ![1](https://user-images.githubusercontent.com/44116298/123417973-c4f4ac00-d5b8-11eb-9475-42b38bea7f2c.png)
+![1](https://user-images.githubusercontent.com/44116298/123419671-cb842300-d5ba-11eb-8fb0-414ddaad2e29.png)
+
 
  ## ⚡ Login - Signup
 ![2](https://user-images.githubusercontent.com/44116298/123417400-03d63200-d5b8-11eb-9f2a-7e2a07de114b.png)![3](https://user-images.githubusercontent.com/44116298/123417490-1badb600-d5b8-11eb-8801-2a8add1b9185.png)![5](https://user-images.githubusercontent.com/44116298/123417517-236d5a80-d5b8-11eb-84e7-9df3e2e67ada.png)
