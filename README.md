@@ -26,26 +26,32 @@ The project is developed using Android Studio 3.5.
 
 
  ## ⚡ Login - Signup
-![2](https://user-images.githubusercontent.com/44116298/123417400-03d63200-d5b8-11eb-9f2a-7e2a07de114b.png)![3](https://user-images.githubusercontent.com/44116298/123417490-1badb600-d5b8-11eb-8801-2a8add1b9185.png)![5](https://user-images.githubusercontent.com/44116298/123417517-236d5a80-d5b8-11eb-84e7-9df3e2e67ada.png)
+![2](https://user-images.githubusercontent.com/44116298/123420542-f6bb4200-d5bb-11eb-906f-aee6ab495143.png)
+![3](https://user-images.githubusercontent.com/44116298/123420563-fde25000-d5bb-11eb-94c9-2e6b50e0704b.png)
+![5](https://user-images.githubusercontent.com/44116298/123420623-105c8980-d5bc-11eb-9a0e-3e9ba2efa5ae.png)
+![5 1](https://user-images.githubusercontent.com/44116298/123420719-32560c00-d5bc-11eb-812f-a1c0437640e9.png)
 
 ## ⚡ Navigation Menu Page
-![6](https://user-images.githubusercontent.com/44116298/123417670-57488000-d5b8-11eb-9a92-5cc445b8f5e4.png)
-![7](https://user-images.githubusercontent.com/44116298/123417714-64656f00-d5b8-11eb-8555-8e50e14de3e9.png)
+![6](https://user-images.githubusercontent.com/44116298/123420928-7c3ef200-d5bc-11eb-83ce-e8d892936591.png)
+![7](https://user-images.githubusercontent.com/44116298/123420947-8103a600-d5bc-11eb-9711-8faa8d292bde.png)
+
 
 ## ⚡ Navigation Menu Bar
-![8](https://user-images.githubusercontent.com/44116298/123418282-29177000-d5b9-11eb-9061-7e0b755ae0ff.png)
-![9](https://user-images.githubusercontent.com/44116298/123418369-46e4d500-d5b9-11eb-9c41-eccbb437c00d.png)
-![10](https://user-images.githubusercontent.com/44116298/123418395-4c421f80-d5b9-11eb-8db8-8148a8c429c2.png)
-![11](https://user-images.githubusercontent.com/44116298/123418412-4f3d1000-d5b9-11eb-90ff-d94151e846ba.png)
+![8](https://user-images.githubusercontent.com/44116298/123420977-8c56d180-d5bc-11eb-955d-d25a4180bad5.png)
+![9](https://user-images.githubusercontent.com/44116298/123420983-8fea5880-d5bc-11eb-83dd-5772691a5ec4.png)
+![10](https://user-images.githubusercontent.com/44116298/123421004-9547a300-d5bc-11eb-9e42-012f950b86f8.png)
+![11](https://user-images.githubusercontent.com/44116298/123421014-9aa4ed80-d5bc-11eb-9dbd-1ab48e7814d7.png)
+
 
 ## ⚡ Current User Location
-![13](https://user-images.githubusercontent.com/44116298/123418546-74ca1980-d5b9-11eb-8855-7f460caab2b9.png)
-![12](https://user-images.githubusercontent.com/44116298/123418521-6e3ba200-d5b9-11eb-9dc4-9cb56509081e.png)
+![12](https://user-images.githubusercontent.com/44116298/123421053-a7294600-d5bc-11eb-8381-31af7972c026.png)
+![13](https://user-images.githubusercontent.com/44116298/123421066-aabccd00-d5bc-11eb-8577-edd06a9ffeb8.png)
 
 ## ⚡ Question&Rate
-![14](https://user-images.githubusercontent.com/44116298/123418638-93c8ab80-d5b9-11eb-9f4d-24f095aeaff2.png)
-![15](https://user-images.githubusercontent.com/44116298/123418679-a0e59a80-d5b9-11eb-8bfc-40c6a0a0b060.png)
-![16](https://user-images.githubusercontent.com/44116298/123418725-acd15c80-d5b9-11eb-8608-21c939240401.png)
+![14](https://user-images.githubusercontent.com/44116298/123421098-b3150800-d5bc-11eb-8bce-066e2b27dac7.png)
+![15](https://user-images.githubusercontent.com/44116298/123421104-b60ff880-d5bc-11eb-8d04-53fa3e4365eb.png)
+![16](https://user-images.githubusercontent.com/44116298/123421117-ba3c1600-d5bc-11eb-98c2-0cbb1d4d98cf.png)
+
 
 
 
