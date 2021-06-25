@@ -43,7 +43,7 @@ The project is developed using Android Studio 3.5.
 ## ⚡ Navigation Menu Bar
 
 ![8](https://user-images.githubusercontent.com/44116298/123420977-8c56d180-d5bc-11eb-955d-d25a4180bad5.png)
-![9](https://user-images.githubusercontent.com/44116298/123420983-8fea5880-d5bc-11eb-83dd-5772691a5ec4.png)
+![9](https://user-images.githubusercontent.com/44116298/123420983-8fea5880-d5bc-11eb-83dd-5772691a5ec4.png)<br>
 ![10](https://user-images.githubusercontent.com/44116298/123421004-9547a300-d5bc-11eb-9e42-012f950b86f8.png)
 ![11](https://user-images.githubusercontent.com/44116298/123421014-9aa4ed80-d5bc-11eb-9dbd-1ab48e7814d7.png)
 
