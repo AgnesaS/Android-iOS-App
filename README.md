@@ -25,9 +25,7 @@ The project is developed using Android Studio 3.5.
  ![1](https://user-images.githubusercontent.com/44116298/123417973-c4f4ac00-d5b8-11eb-9475-42b38bea7f2c.png)
 
  ## ⚡ Login - Signup
-![2](https://user-images.githubusercontent.com/44116298/123417400-03d63200-d5b8-11eb-9f2a-7e2a07de114b.png)
-![3](https://user-images.githubusercontent.com/44116298/123417490-1badb600-d5b8-11eb-8801-2a8add1b9185.png)
-![5](https://user-images.githubusercontent.com/44116298/123417517-236d5a80-d5b8-11eb-84e7-9df3e2e67ada.png)
+![2](https://user-images.githubusercontent.com/44116298/123417400-03d63200-d5b8-11eb-9f2a-7e2a07de114b.png)![3](https://user-images.githubusercontent.com/44116298/123417490-1badb600-d5b8-11eb-8801-2a8add1b9185.png)![5](https://user-images.githubusercontent.com/44116298/123417517-236d5a80-d5b8-11eb-84e7-9df3e2e67ada.png)
 
 ## ⚡ Navigation Menu Page
 ![6](https://user-images.githubusercontent.com/44116298/123417670-57488000-d5b8-11eb-9a92-5cc445b8f5e4.png)
