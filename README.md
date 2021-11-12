@@ -1,7 +1,7 @@
 # Restaurant App :coffee: 
 
 ## INTRODUCTION
-All ordered in a single application dedicated to customer service.
+All ordered in a single websites dedicated to customer service.
 The website will contain the following features:
 * Online slot reservation 
 * Ordering online and online delivery
