@@ -4,7 +4,7 @@
 All ordered in a single websites dedicated to customer service.
 The website will contain the following features:
 * Online slot reservation 
-* Ordering online and online delivery
+* Ordering online
 * Table reservation
 * Staff management
 * Kitchen management
