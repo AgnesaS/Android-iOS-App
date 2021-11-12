@@ -2,14 +2,9 @@
 
 ## INTRODUCTION
 All ordered in a single application dedicated to customer service.
-The application will contain the following features:
+The website will contain the following features:
 * Online slot reservation 
 * Ordering online and online delivery
-* Login and register form
-* Location
-* Have and answer for every question
-* Online reviews and ratings
-* Push notifications
 * Table reservation
 * Staff management
 * Kitchen management
@@ -18,46 +13,47 @@ The application will contain the following features:
 # CONFIGURATION
 ## IDE
 
-The project is developed using Android Studio 3.5.
+The project is developed using Visual Studio
 
 # SCREENSHOTS
- ## ⚡Profile
- 
-![1](https://user-images.githubusercontent.com/44116298/123420495-e5723580-d5bb-11eb-8e3c-7061f85d8070.png)
+ ## ⚡Home
+ ![home1](https://user-images.githubusercontent.com/44116298/141468243-149315a6-44d7-4181-93b5-26805b172415.png)
+![home2](https://user-images.githubusercontent.com/44116298/141468269-ad63eeac-3b7a-4680-9619-2c0cf1e5fe2d.png)
+![home3](https://user-images.githubusercontent.com/44116298/141468283-1dc1b93f-cbcb-455d-8bf2-97b74dafe01d.png)
+![home4](https://user-images.githubusercontent.com/44116298/141468292-bd3a05b7-d26e-435e-96bc-953390082f83.png)
 
 
- ## ⚡ Login - Signup
- 
-![2](https://user-images.githubusercontent.com/44116298/123420542-f6bb4200-d5bb-11eb-906f-aee6ab495143.png)
-![3](https://user-images.githubusercontent.com/44116298/123420563-fde25000-d5bb-11eb-94c9-2e6b50e0704b.png)<br>
 
-![5](https://user-images.githubusercontent.com/44116298/123420623-105c8980-d5bc-11eb-9a0e-3e9ba2efa5ae.png)
-![5 1](https://user-images.githubusercontent.com/44116298/123420719-32560c00-d5bc-11eb-812f-a1c0437640e9.png)
+ ## ⚡ Menu
+ ![menu1](https://user-images.githubusercontent.com/44116298/141468315-5a4c65f7-fd03-4dcb-8ef9-8ecadf4d46a2.png)
+![menu2](https://user-images.githubusercontent.com/44116298/141468319-245e856c-3b32-4a84-8dd4-2b586c307f60.png)
+![menu3](https://user-images.githubusercontent.com/44116298/141468326-ffde7f01-db12-4486-aaae-ecf21d1355a4.png)
 
-## ⚡ Navigation Menu Page
+## ⚡ Events
 
-![6](https://user-images.githubusercontent.com/44116298/123420928-7c3ef200-d5bc-11eb-83ce-e8d892936591.png)
-![7](https://user-images.githubusercontent.com/44116298/123420947-8103a600-d5bc-11eb-9711-8faa8d292bde.png)
-
-
-## ⚡ Navigation Menu Bar
-
-![8](https://user-images.githubusercontent.com/44116298/123420977-8c56d180-d5bc-11eb-955d-d25a4180bad5.png)
-![9](https://user-images.githubusercontent.com/44116298/123420983-8fea5880-d5bc-11eb-83dd-5772691a5ec4.png)<br>
-![10](https://user-images.githubusercontent.com/44116298/123421004-9547a300-d5bc-11eb-9e42-012f950b86f8.png)
-![11](https://user-images.githubusercontent.com/44116298/123421014-9aa4ed80-d5bc-11eb-9dbd-1ab48e7814d7.png)
+![event1](https://user-images.githubusercontent.com/44116298/141468365-7c0b3b16-9acf-454a-9e65-ae9762cce88e.png)
+![event2](https://user-images.githubusercontent.com/44116298/141468374-9ceca9a2-fdd9-4895-92d7-16b15d582218.png)
+![event3](https://user-images.githubusercontent.com/44116298/141468384-939a335e-a939-4a54-979d-0c0f649db29e.png)
 
 
-## ⚡ Current User Location
 
-![12](https://user-images.githubusercontent.com/44116298/123421053-a7294600-d5bc-11eb-8381-31af7972c026.png)
-![13](https://user-images.githubusercontent.com/44116298/123421066-aabccd00-d5bc-11eb-8577-edd06a9ffeb8.png)
+## ⚡ About Us
+![about1](https://user-images.githubusercontent.com/44116298/141468406-9c7ba6b2-1958-4a37-b252-9806c2573107.png)
+![about2](https://user-images.githubusercontent.com/44116298/141468412-8a7424c5-e902-484c-bb93-1e98fd297829.png)
+![about3](https://user-images.githubusercontent.com/44116298/141468419-68747455-7563-4e60-9445-9897cf266eb7.png)
 
-## ⚡ Question&Rate
 
-![14](https://user-images.githubusercontent.com/44116298/123421098-b3150800-d5bc-11eb-8bce-066e2b27dac7.png)
-![15](https://user-images.githubusercontent.com/44116298/123421104-b60ff880-d5bc-11eb-8d04-53fa3e4365eb.png)
-![16](https://user-images.githubusercontent.com/44116298/123421117-ba3c1600-d5bc-11eb-98c2-0cbb1d4d98cf.png)
+
+
+## ⚡ Delivery online
+![delivery](https://user-images.githubusercontent.com/44116298/141468512-f270e210-1488-40b4-bea6-0fe96c952779.png)
+
+
+
+## ⚡ Reservation in Restaurant
+
+![reservatioon](https://user-images.githubusercontent.com/44116298/141468550-7e6f0ac3-71b0-4555-a2a6-eace16b00f44.png)
+
 
 
 
